@@ -1,0 +1,12 @@
+.backgrnd img{
+    height: 100%;
+    width: 100%;
+    /* transform: scaleX(-1); */
+    /* background-repeat: no-repeat; */
+}
+
+.profile img{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
